@@ -41,23 +41,23 @@ User Engagement Analysis to assess and understand user involvement, interaction,
 -------
 # Key Insights:-
 ## 1. Bounce Rates: 
-► Define the threshold for high, medium and low bounce rates
-► 70 for high bounce rate threshold 30 for low bounce rates threshold
+► Define the threshold for high, medium and low bounce rates.<br>
+► 70 for high bounce rate threshold 30 for low bounce rates threshold.<br>
 ► 71 clients for low bounce rate, 480 for medium bounce  rates and 399 for high bounce rates .<br>
 
 
 ## 2. Average Bounce Rate by retention segment: 
-► Divided thr user into frequent and occasion users through session column
-► if Session > 32 then frequent otherwise occasional (32 is the mean of the session column)
-► Calculate Average bounce rate using group by function
-► Average Bounce Rate for Frequent Users 64.45.
-► Average Bounce Rate for Ocassional Users 65.67.
+► Divided thr user into frequent and occasion users through session column.<br>
+► if Session > 32 then frequent otherwise occasional (32 is the mean of the session column).<br>
+► Calculate Average bounce rate using group by function.<br>
+► Average Bounce Rate for Frequent Users 64.45.<br>
+► Average Bounce Rate for Ocassional Users 65.67.<br>
 
 ## 3. User Engagement By Bounce Rate Segment: 
-► Visualize the User engagement through Average Session using Bar Chart
-► Average Session Duration for low bounce rate is 9.05
-► Average Session Duration for Medium bounce rate is 5.04
-► Average Session Duration for High bounce rate is 1.43
+► Visualize the User engagement through Average Session using Bar Chart.<br>
+► Average Session Duration for low bounce rate is 9.05.<br>
+► Average Session Duration for Medium bounce rate is 5.04.<br>
+► Average Session Duration for High bounce rate is 1.43.<br>
 
 
 ------
